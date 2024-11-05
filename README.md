@@ -1,7 +1,7 @@
 # Calculator Program
 This project is a simple calculator implemented in C++ that performs basic arithmetic operations based on user input.
 
-* Features: *
+* Features:*
 - Allows the user to input two numbers.
 - Supports addition (+), subtraction (-), multiplication (*), division (/), and modulus (%).
 - Handles division by zero and modulus by zero with error messages.
