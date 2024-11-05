@@ -17,7 +17,7 @@ The following screenshots show the structure and usage of the program:
 # Hesap Makinesi Programı
 Bu proje, C++ ile yazılmış basit bir hesap makinesidir ve kullanıcıdan alınan girişlere göre temel aritmetik işlemleri gerçekleştirir.
 
-* Özellikler: *
+**Özellikler:**
 - Kullanıcının iki sayı girmesine izin verir.
 - Toplama (+), çıkarma (-), çarpma (*), bölme (/) ve mod (%) işlemlerini destekler.
 - Sıfıra bölme ve mod işlemi hatalarına karşı uyarı mesajları içerir.
